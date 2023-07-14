@@ -1,4 +1,4 @@
-🌐 🤖 Automation Engineer | Manual and Automation Testing 🔧 🚀
+🌐 🤖 Automation Engineer | Automation and Manual Testing 🔧 🚀
 
 Hello! I'm Shafat Masood, an experienced automation engineer with a passion for ensuring software quality through manual and automation testing. I specialize in automating web applications using Selenium with Java and Python, mobile applications using Appium with Java, and REST APIs using Python. 💻🔍
 
