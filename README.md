@@ -7,9 +7,13 @@ With a strong foundation in software testing principles and methodologies, I str
 ✨ Skills:
 
 ✔️ Automation Testing: Selenium (Java, Python), Appium (Java), REST APIs (Python)
+
 ✔️ Manual Testing: Test Planning, Test Design, Test Execution, Defect Management
+
 ✔️ Test Automation Frameworks: TestNG, JUnit, PyTest
+
 ✔️ Continuous Integration/Continuous Delivery (CI/CD): Jenkins, Git, GitHub Actions
+
 ✔️ Agile Methodologies: Scrum, Kanban
 
 🏆 I am deeply passionate about delivering robust and reliable software solutions. I thrive in dynamic and collaborative environments, constantly staying updated with the latest industry trends and technologies. Embracing continuous learning and improvement, I am committed to delivering excellence. 🌟📚
